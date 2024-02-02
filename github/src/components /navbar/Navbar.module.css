@@ -10,20 +10,3 @@
 .logo img {
   width: 170px;
 }
-
-.button {
-  display: flex;
-}
-
-.button button {
-  margin-left: 10px;
-  margin-right: 30px;
-  padding: 10px 10px;
-  width: 130px;
-  font-size: 20px;
-  border: none;
-  background-color: #000000;
-  color: #ffffff;
-  cursor: pointer;
-  border-radius: 5px;
-}
